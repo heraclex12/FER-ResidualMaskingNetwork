@@ -19,8 +19,8 @@ Model | Accuracy |
 ResNet50 | 66%
 ResNet50 with VGGFace-pretrained | 69.23%
 ResNet34 with pretrained-model | 69.27%
-ResMaskingNet (Own) | 71.14%
-ResMaskingNet \[1\] (Expected) | 74.14
+ResMaskingNet (Ours) | 71.14%
+ResMaskingNet \[1\] (from paper) | 74.14
 
 
 
